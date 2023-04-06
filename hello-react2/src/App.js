@@ -1,4 +1,5 @@
 import Counter from "./Counter";
+import EventPractice from "./EventPractice";
 import Say from "./Say";
 
 const App = () => {
@@ -6,6 +7,7 @@ const App = () => {
     <>
       <Counter />
       <Say />
+      <EventPractice />
     </>
   );
 };
