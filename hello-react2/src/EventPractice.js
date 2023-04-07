@@ -1,6 +1,6 @@
 import { Component, useState } from "react";
 
-// 클래스형
+// 클래스형컴포넌트
 // class EventPractice extends Component {
 //   state = {
 //     username: "",
